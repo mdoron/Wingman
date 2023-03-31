@@ -1,0 +1,3 @@
+[submodule "CyberCupid"]
+	path = CyberCupid
+	url = git@github.com:mdoron/CyberCupid.git
